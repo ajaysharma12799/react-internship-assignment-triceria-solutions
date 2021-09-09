@@ -1,7 +1,16 @@
+:root {
+  --primaryColor: #38CC77;
+}
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+.navbar {
+  background-color: var(--primaryColor);
+}
+.navbar-toggler {
+  background-color: #fff;
 }
 .home-card-container {
   margin-top: 2%;
@@ -29,7 +38,8 @@
 .bi-heart {
   color: red;
 }
-.add-to-cart {
+.add-to-cart,
+.remove-from-cart {
   border-radius: 0px;
 }
 .cart-product-container {
@@ -37,6 +47,9 @@
   flex-wrap: wrap;
   row-gap: 5px;
   column-gap: 10px;
+}
+.checkout-button {
+  background-color: var(--primaryColor);
 }
 @media (max-width: 1399px) {
   .cart-card {

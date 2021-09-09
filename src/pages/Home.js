@@ -16,8 +16,6 @@ const Home = () => {
             toast.error("Product Already Exists in Your Cart");
         }
         else {
-            console.log(isAlreadyAdded + " isAlreadyAdded")
-            console.log(item.id + " item id")
             setCartItem([...cartItem, item]);
             toast.success("Product Added To Cart");
         }

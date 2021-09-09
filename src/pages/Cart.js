@@ -18,12 +18,11 @@ const Cart = () => {
 
     const calculateTotalAmount = () => {
         var sum = 0;
-        cartItem.map(product => {
+        cartItem.forEach(product => {
             const {price} = product;
             sum += price;
         });
         return sum;
-
     }
     
     useEffect(() => {
@@ -65,7 +64,7 @@ const Cart = () => {
                                             <span><strong>{calculateTotalAmount()} $</strong></span>
                                         </li>
                                     </ul>
-                                <button type="button" disabled={disabled} onClick={buyNow} className="btn btn-primary w-100">Checkout</button>
+                                <button type="button" disabled={disabled} onClick={buyNow} className="btn checkout-button w-100">Checkout</button>
                             </div>
                         </div>
                     </div>

@@ -14,7 +14,6 @@ import 'react-toastify/dist/ReactToastify.css';
 
 const App = () => {
   const [cartItem, setCartItem] = useState([]);
-  console.log(cartItem)
   return (
     <React.Fragment>
       <ToastContainer />
