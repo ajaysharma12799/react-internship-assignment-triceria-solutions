@@ -1,0 +1,82 @@
+[
+    {
+        "id": 101,
+        "img": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
+        "name": "Italian Noddles",
+        "price": 120,
+        "rating": 4,
+        "portion": 250
+    },
+    {
+        "id": 103,
+        "img": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
+        "name": "Pizza Hut Farm Fresh Pizza",
+        "price": 120,
+        "rating": 4,
+        "portion": 250
+    },
+    {
+        "id": 105,
+        "img": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
+        "name": "WoW Indian Burger",
+        "price": 120,
+        "rating": 4,
+        "portion": 250
+    },
+    {
+        "id": 107,
+        "img": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
+        "name": "Cheesy Garlic Bread",
+        "price": 120,
+        "rating": 4,
+        "portion": 250
+    },
+    {
+        "id": 109,
+        "img": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
+        "name": "Vegie Indie Hacky",
+        "price": 120,
+        "rating": 4,
+        "portion": 250
+    },
+    {
+        "id": 111,
+        "img": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
+        "name": "Pizzeria Pizza",
+        "price": 120,
+        "rating": 4,
+        "portion": 250
+    },
+    {
+        "id": 113,
+        "img": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
+        "name": "Oven Storey Pizzeria",
+        "price": 120,
+        "rating": 4,
+        "portion": 250
+    },
+    {
+        "id": 115,
+        "img": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
+        "name": "Pita Bread & Humus with Olive Oil",
+        "price": 120,
+        "rating": 4,
+        "portion": 250
+    },
+    {
+        "id": 117,
+        "img": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
+        "name": "Istanbul Famous Sweet",
+        "price": 120,
+        "rating": 4,
+        "portion": 250
+    },
+    {
+        "id": 119,
+        "img": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
+        "name": "Biryani by Kilo Paneer Biryani",
+        "price": 120,
+        "rating": 4,
+        "portion": 250
+    }
+]
