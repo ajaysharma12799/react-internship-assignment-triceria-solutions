@@ -3,9 +3,9 @@
         "id": 101,
         "img": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
         "name": "Italian Noddles",
-        "price": 120,
+        "price": 320,
         "rating": 4,
-        "portion": 250
+        "portion": 150
     },
     {
         "id": 103,
@@ -19,64 +19,64 @@
         "id": 105,
         "img": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
         "name": "WoW Indian Burger",
-        "price": 120,
+        "price": 150,
         "rating": 4,
-        "portion": 250
+        "portion": 350
     },
     {
         "id": 107,
         "img": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
         "name": "Cheesy Garlic Bread",
-        "price": 120,
+        "price": 190,
         "rating": 4,
-        "portion": 250
+        "portion": 450
     },
     {
         "id": 109,
         "img": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
         "name": "Vegie Indie Hacky",
-        "price": 120,
+        "price": 159,
         "rating": 4,
-        "portion": 250
+        "portion": 190
     },
     {
         "id": 111,
         "img": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
         "name": "Pizzeria Pizza",
-        "price": 120,
+        "price": 790,
         "rating": 4,
-        "portion": 250
+        "portion": 220
     },
     {
         "id": 113,
         "img": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
         "name": "Oven Storey Pizzeria",
-        "price": 120,
+        "price": 860,
         "rating": 4,
-        "portion": 250
+        "portion": 120
     },
     {
         "id": 115,
         "img": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
         "name": "Pita Bread & Humus with Olive Oil",
-        "price": 120,
+        "price": 1200,
         "rating": 4,
-        "portion": 250
+        "portion": 420
     },
     {
         "id": 117,
         "img": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
         "name": "Istanbul Famous Sweet",
-        "price": 120,
+        "price": 930,
         "rating": 4,
-        "portion": 250
+        "portion": 500
     },
     {
         "id": 119,
         "img": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
         "name": "Biryani by Kilo Paneer Biryani",
-        "price": 120,
+        "price": 550,
         "rating": 4,
-        "portion": 250
+        "portion": 950
     }
 ]
